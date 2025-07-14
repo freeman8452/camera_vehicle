@@ -33,3 +33,12 @@ Kernel
  $ ./kernel_make.sh
 
 
+eosys_drv_m.c  ==> infrared camera driver source code
+mdin_drv_m.c   ==> cmos camera driver source code
+tp2860_drv_m.c ==> auxiliary camera driver source code
+
+
+
+
+
+
